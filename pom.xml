@@ -215,9 +215,7 @@ CSV files of various types.
         </configuration>
       
       </plugin>
-    </plugins>
-    
-    <plugins>
+     
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-failsafe-plugin</artifactId>
@@ -231,8 +229,8 @@ CSV files of various types.
           </execution>
         </executions>
       </plugin>
+     
     </plugins>
-  
   </build>
 
   <reporting>
