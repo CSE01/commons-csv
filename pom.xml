@@ -387,9 +387,6 @@ CSV files of various types.
                 </configuration>
               </execution>
             </executions>
-            
-               <plugins>
-   
           </plugin>
         </plugins>
       </build>
